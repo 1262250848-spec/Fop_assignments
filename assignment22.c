@@ -16,7 +16,7 @@ int main()
     switch(ch)
     {
         case 1:
-            printf("Length = %d", strlen(s1)-1);
+            printf("Length = %d", strlen(s1));
             break;
 
         case 2:
